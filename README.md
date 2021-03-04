@@ -3,6 +3,8 @@ Readers is application used to display books from Goole book API and search for 
 
 # Project status 
 The project status is completed. Users can search for books, add books to favorite (My Books tab) and can add/edit/remove comments.
+## project deployment link 
+https://pages.git.generalassemb.ly/MaryamBalabeed/Project2/
 
 ## Features
 * User can view the date/weather and quote of the day
